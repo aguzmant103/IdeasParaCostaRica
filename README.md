@@ -7,4 +7,9 @@ Ideas de proyectos que quisiera que alguien construyera para el bien publico en 
 - Participacion Asamblea: un dashboard con la asistencia a sesiones de plenario de cada diputado y por fraccion.
 - Politica Publica: dashboard con los ingresos y gastos del estado a alto nivel. Cada vez que se hace click a un numero, se expande la categoria.
 
+## Finanzas Publicas
+- Sankey diagram explicando a nivel macro: ingresos y gastos
+
+## Transparencia
+- Representar las transferencias de ONGs/sector publico con transacciones onchain. Tener dashboards de la salud de las instituciones.
   
